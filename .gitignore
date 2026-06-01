@@ -1,0 +1,21 @@
+## .NET
+*.user
+*.suo
+.vs/
+bin/
+obj/
+*.log
+
+## Rider
+.idea/
+
+## VSCode
+.vscode/
+
+## Environment
+.env
+.env.local
+appsettings.Development.json
+
+## Docker
+docker-compose.override.yml
